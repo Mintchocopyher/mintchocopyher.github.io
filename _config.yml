@@ -24,9 +24,9 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: mnt > choco.py her
+title: mnt>choco.py
 email: mintchocopyher@gmail.com
-author: 민트초코파이어
+author: mintchocopyher
 
 # Copyright setting
 # You can use any html code, currently below placeholders are available:
