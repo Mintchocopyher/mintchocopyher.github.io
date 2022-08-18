@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/">
+  <channel>
+    <title>Categories on mnt&gt;choco.py</title>
+    <link>https://mintchocopyher.github.io/categories/</link>
+    <description>Recent content in Categories on mnt&gt;choco.py</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ko-KR</language>
+    <lastBuildDate>Thu, 18 Aug 2022 00:04:21 +0900</lastBuildDate><atom:link href="https://mintchocopyher.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>씨발</title>
+      <link>https://mintchocopyher.github.io/categories/%EC%94%A8%EB%B0%9C/</link>
+      <pubDate>Thu, 18 Aug 2022 00:04:21 +0900</pubDate>
+      
+      <guid>https://mintchocopyher.github.io/categories/%EC%94%A8%EB%B0%9C/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>아</title>
+      <link>https://mintchocopyher.github.io/categories/%EC%95%84/</link>
+      <pubDate>Thu, 18 Aug 2022 00:04:21 +0900</pubDate>
+      
+      <guid>https://mintchocopyher.github.io/categories/%EC%95%84/</guid>
+      <description></description>
+    </item>
+    
+  </channel>
+</rss>
